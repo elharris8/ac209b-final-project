@@ -1,0 +1,11 @@
+{
+  "label": "Base Model",
+  "exact_micro_f1": 0.068,
+  "exact_macro_f1": 0.0376,
+  "relaxed_micro_f1": 0.1057,
+  "relaxed_macro_f1": 0.0571,
+  "count_ratio_mean": 0.3806,
+  "count_ratio_med": 0.0,
+  "n_empty_pred": 190,
+  "n_examples": 300
+}

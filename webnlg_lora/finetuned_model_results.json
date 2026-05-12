@@ -1,0 +1,11 @@
+{
+  "label": "Fine-tuned (LoRA)",
+  "exact_micro_f1": 0.3497,
+  "exact_macro_f1": 0.3721,
+  "relaxed_micro_f1": 0.4272,
+  "relaxed_macro_f1": 0.455,
+  "count_ratio_mean": 0.8389,
+  "count_ratio_med": 0.8333,
+  "n_empty_pred": 0,
+  "n_examples": 300
+}
